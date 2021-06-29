@@ -1,0 +1,51 @@
+baseurl: /
+relativeurls: yes
+publishDir: docs
+title: EMCR Brain Science Network Website
+theme: hugo-calade
+permalinks:
+  post: /post/:slug/
+  project: /project/:slug/
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Posts
+      url: /post/
+      weight: 3
+    - name: Profiles
+      url: /profiles/
+      weight: 4
+    - name: Tags
+      url: /tags/
+      weight: 5
+params:
+  colorAccent1: '#ff69b4'
+  colorAccent2: '#ba68c8'
+  colorFade: '#888888'
+  colorPage: '#333333'
+  colorText: '#dddddd'
+  description: This is the new website for the Australasian EMCR Brain Sciences network 
+  footer: EMCRs are early-mid-career researchers in ANY area doing brain-related things
+  siteHeader: header/banner.png
+  siteProfile: header/profile.png
+  twitterImage: https://djnavarro.github.io/hugo-calade/header/caladown.png
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      disqusShortname: ''
+      footnotereturnlinkcontents: ↩
+      googleAnalytics: ''
+      ignoreFiles:
+        - \.Rmd$
+        - \.Rmarkdown$
+        - _files$
+        - _cache$
+      languageCode: en-us
+      preserveTaxonomyNames: yes
+      unsafe: yes

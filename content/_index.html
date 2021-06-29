@@ -1,0 +1,24 @@
+---
+title: Home
+summary: "Calade: A Hugo theme and R package by Danielle Navarro"
+---
+
+
+
+<div id="calade" class="section level1">
+<h1>Calade</h1>
+<div id="a-hugo-theme-and-r-package-by-danielle-navarro" class="section level3">
+<h3>A Hugo theme and R package by <a href="https://twitter.com/djnavarro">Danielle Navarro</a></h3>
+<p><img src="header/caladown.png" width="150px" style="float:right; padding:15px;"></p>
+<p><br></p>
+<p>The goal of calade and caladown is to allow R users to create lightweight websites powered by Hugo and is designed to be compatible with both <a href="https://hugodown.r-lib.org/">hugodown</a> and <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>, and allows users to generate graphics that match the visual style of the site via the <a href="https://rstudio.github.io/thematic/">thematic</a> package. There are two components to caladown, a <a href="https://github.com/djnavarro/hugo-calade">Hugo theme</a> and an <a href="https://github.com/djnavarro/caladown">R package</a>. The simplest way to get started is simply to download the R package from GitHub using the following command:</p>
+<pre class="r"><code>remotes::install_github(&quot;djnavarro/caladown&quot;)</code></pre>
+<p>Once the caladown package is installed, the tutorial in the <a href="/post/">posts</a> section of this site will walk you through the rest of the process. For folks who already know what they are doing, here’s the quick guide to setting up a Hugodown site on GitHub Pages:</p>
+<pre class="r"><code>hugodown::hugo_install(&quot;0.66.0&quot;) 
+caladown::create_hugodown_calade(&quot;my-caladown-site&quot;)
+hugodown::hugo_build(dest = &quot;docs&quot;)
+usethis::use_git()
+usethis::use_github() # then enable GH Pages with /docs folder</code></pre>
+<p>Note that there is a known issue with knitting the R markdown files for some versions of pandoc: at present the earliest known version that works is pandoc 2.1</p>
+</div>
+</div>

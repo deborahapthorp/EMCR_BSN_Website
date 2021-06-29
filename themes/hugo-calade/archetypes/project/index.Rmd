@@ -1,0 +1,8 @@
+---
+title: "{{ title }}"
+type: "project"
+summary: ""
+author: ""
+tags: []
+date: {{ date }}
+---

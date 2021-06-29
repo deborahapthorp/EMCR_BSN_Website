@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="">
+
+  <head>
+	<meta name="generator" content="Hugo 0.57.2" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home | EMCR Brain Science Network Website</title>
+
+  <style>
+  	:root {
+  		--pagecolour: #333333;
+  		--maintext: #dddddd;
+  		--faded: #888888;
+  		--highlight: #ff69b4;
+  		--lowlight: #ba68c8;
+	}
+  </style>
+
+  <link rel="stylesheet" href="./css/et_book.css" />
+  <link rel="stylesheet" href="./css/style.css" />
+
+  
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="Home">
+<meta property="og:description" content="Calade: A Hugo theme and R package by Danielle Navarro">
+<meta property="og:image" content="https://djnavarro.github.io/hugo-calade/header/caladown.png">
+
+</head>
+
+
+  <body>
+    
+
+<div class="article-header">
+  
+  
+  <img src="./header/banner.png" class="article-banner" itemprop="image" alt="">
+  
+
+  
+  
+  <img src="./header/profile.png" class="article-header-profile" itemprop="image" alt="">
+  
+
+
+</div>
+
+
+
+    <div class="main-content">
+      <nav>
+  <ul class="menu">
+    
+    <li><a href="./">Home</a></li>
+    
+    <li><a href="./about/">About</a></li>
+    
+    <li><a href="./post/">Posts</a></li>
+    
+    <li><a href="./profiles/">Profiles</a></li>
+    
+    <li><a href="./tags/">Tags</a></li>
+    
+  </ul>
+</nav>
+
+
+      <main>
+        
+
+
+<div id="calade" class="section level1">
+<h1>Calade</h1>
+<div id="a-hugo-theme-and-r-package-by-danielle-navarro" class="section level3">
+<h3>A Hugo theme and R package by <a href="https://twitter.com/djnavarro">Danielle Navarro</a></h3>
+<p><img src="header/caladown.png" width="150px" style="float:right; padding:15px;"></p>
+<p><br></p>
+<p>The goal of calade and caladown is to allow R users to create lightweight websites powered by Hugo and is designed to be compatible with both <a href="https://hugodown.r-lib.org/">hugodown</a> and <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>, and allows users to generate graphics that match the visual style of the site via the <a href="https://rstudio.github.io/thematic/">thematic</a> package. There are two components to caladown, a <a href="https://github.com/djnavarro/hugo-calade">Hugo theme</a> and an <a href="https://github.com/djnavarro/caladown">R package</a>. The simplest way to get started is simply to download the R package from GitHub using the following command:</p>
+<pre class="r"><code>remotes::install_github(&quot;djnavarro/caladown&quot;)</code></pre>
+<p>Once the caladown package is installed, the tutorial in the <a href="./post/">posts</a> section of this site will walk you through the rest of the process. For folks who already know what they are doing, here’s the quick guide to setting up a Hugodown site on GitHub Pages:</p>
+<pre class="r"><code>hugodown::hugo_install(&quot;0.66.0&quot;) 
+caladown::create_hugodown_calade(&quot;my-caladown-site&quot;)
+hugodown::hugo_build(dest = &quot;docs&quot;)
+usethis::use_git()
+usethis::use_github() # then enable GH Pages with /docs folder</code></pre>
+<p>Note that there is a known issue with knitting the R markdown files for some versions of pandoc: at present the earliest known version that works is pandoc 2.1</p>
+</div>
+</div>
+
+      </main>
+
+      <footer>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+
+  <script>
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  </script>
+
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <br/><br/>
+  EMCRs are early-mid-career researchers in ANY area doing brain-related things
+  <br/><br/>
+  
+</footer>
+
+
+    </div>
+  </body>
+</html>
