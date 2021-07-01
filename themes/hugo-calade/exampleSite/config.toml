@@ -45,8 +45,8 @@ theme = "calade"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Strategic Plan"
+    url = "/strategicplan/"
     weight = 2
 [[menu.main]]
     name = "Posts"

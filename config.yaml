@@ -11,8 +11,8 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: About
-      url: /about/
+    - name: Strategic Plan
+      url: /strategicplan/
       weight: 2
     - name: Posts
       url: /post/
@@ -31,8 +31,8 @@ params:
   colorText: '#dddddd'
   description: This is the new website for the Australasian EMCR Brain Sciences network 
   footer: EMCRs are early-mid-career researchers in ANY area doing brain-related things
-  siteHeader: header/banner.png
-  siteProfile: header/profile.png
+  siteHeader: header/EMCRNetworkLogo.png
+  siteProfile: 
   twitterImage: https://djnavarro.github.io/hugo-calade/header/caladown.png
 markup:
   defaultMarkdownHandler: goldmark

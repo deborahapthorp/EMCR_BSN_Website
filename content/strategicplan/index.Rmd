@@ -1,13 +1,13 @@
 ---
-title: "about"
+title: "strategicplan"
 type: "page"
-summary: "EMCR Brain Sciences Website"
+summary: "EMCR Brain Sciences Strategic Plan"
 author: ""
 tags: []
-date: 2021-06-29
+date: 2020-09-02
 ---
 
-# About our network
+# About the theme
 
 The calade theme started its life as a fork of Yihue Xie's Xmin theme, which I had started to tinker with because I wanted to better understand the internal workings of Hugo and blogdown. One of the things I really liked about Xmin is its simplicity. There are very few moving parts to the theme which makes it much less intimidating for novice users than the academic theme, which is a wonderful theme but also a rather complicated one. After deciding that I didn't want or need all that complexity for my own website, I worked on extending the Xmin theme to have "just enough" functionality for my purposes. The visual style draws some elements from Xmin, others from academic, and others from the Tufte R markdown theme. Mostly though it was designed to suit my own aesthetic sensibilities. 
 

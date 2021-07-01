@@ -1,7 +1,7 @@
 ---
-title: "about"
+title: "strategicplan"
 type: "page"
-summary: "Caladown: A Hugo theme and R package by Danielle Navarro"
+summary: "The EMCR Brain Sciences Network's strategic plan"
 author: ""
 tags: []
 date: 2020-09-02
