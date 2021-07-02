@@ -14,8 +14,8 @@ menu:
     - name: Strategic Plan
       url: /strategicplan/
       weight: 2
-    - name: Posts
-      url: /post/
+    - name: Newsletter
+      url: /newsletter/
       weight: 3
     - name: Profiles
       url: /profiles/
