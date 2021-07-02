@@ -1,15 +1,15 @@
 ---
 title: "April 2019 Newsletter"
 type: "post"
-author: ""
+author: "EMCR Brain Science Network Steering Committee"
 date: "2019-04-10"
 slug: april-newsletter
 summary: "In this newsletter we have included a number of profiles of Australian brain EMCRs kicking goals, as well as awesome initiatives getting up and running — like QueersInscience, set up to foster and champion the inclusion of LGBTQIA+ professionals within STEMM organisations. We hope you enjoy being a part of the BSN."
 tags: ["newsletter"]
 header:
   caption: ""
-  image: 'header/banner.png'
-  profile: 'header/profile.png'
+  image: 'header/dti-banner.jpeg'
+  profile: ''
 ---
 
 ```{r setup, include=FALSE}
@@ -74,4 +74,12 @@ The showcase ended with a Q&A and networking opportunity which sparked discussio
 
 
 ## Grant Opportunities
+
 Please [contact](mailto:emcrbsn@brainalliance.org.au) the EMCR Network if you would like to advertise grant opportunities here.
+
+
+## Employment and other brain science opportunities
+
+Please [contact](mailto:emcrbsn@brainalliance.org.au) the EMCR Network if you would like to advertise positions here.
+
+[![Women in Brain Stim](WomeninBrainStim.png)](http://womeninbrainstim.com/)
