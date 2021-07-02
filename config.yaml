@@ -33,7 +33,7 @@ params:
   footer: EMCRs are early-mid-career researchers in ANY area doing brain-related things
   siteHeader: header/EMCRNetworkLogo.png
   siteProfile: 
-  twitterImage: https://djnavarro.github.io/hugo-calade/header/caladown.png
+  twitterImage: header/EMCR-BSN-logo.png
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
