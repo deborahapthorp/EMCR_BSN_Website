@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>profile on EMCR Brain Science Network Website</title>
+    <link>/tags/profile/</link>
+    <description>Recent content in profile on EMCR Brain Science Network Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/profile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Adam Hamlin</title>
+      <link>/profiles/dr-adam-hamlin/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-adam-hamlin/</guid>
+      <description>Dr. Adam Hamlin is a neuroscientist working at the University of New England, focusing on pre-clinical studies of anxiety and depression.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Ann-Maree Vallence</title>
+      <link>/profiles/dr-ann-maree-vallence/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-ann-maree-vallence/</guid>
+      <description>Dr. Ann-Maree Vallence co-leads the Action and Cognition Research Group at Murdoch University, and is a DECRA researcher. She is studying connectivity in the aceing brain and how this relates to the control of movement.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Deborah Apthorp</title>
+      <link>/profiles/dr-deborah-apthorp/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-deborah-apthorp/</guid>
+      <description>Dr. Deborah Apthorp is a senior lecturer at the University of New England.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Sarah Stephenson, Queers in Science</title>
+      <link>/profiles/dr-sarah-stephenson/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-sarah-stephenson/</guid>
+      <description>Dr. Sarah Stephenson is a neuroscientist working in the area of brain nevelopment and neuroplasticity. She&amp;rsquo;s also also the co-founder of an organisation called QueersInScience, which aims to foster and champion the inclusion of LGBTQIA+ professionals within STEMM organisations.</description>
+    </item>
+    
+  </channel>
+</rss>

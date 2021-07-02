@@ -13,8 +13,8 @@ colorAccent1: "#0000dd"
 colorAccent2: "#8a2be2"
 toc: true
 header:
-  caption: "A customised header"
-  image: 'header/custom_banner.png'
+  caption: "Image source: UCSB Brain Initiative"
+  image: 'header/brain-banner.png'
   profile: 'header/custom_profile.png'
 ---
 
@@ -64,7 +64,7 @@ thematic_on(bg = "#eeeeee")
 ggplot(mpg, aes(displ, hwy)) + geom_point() 
 ```
 
-See the documemntation for thematic for more detail.
+See the documentation for thematic for more detail.
 
 
 ## Custom headers and profiles

@@ -6,26 +6,26 @@ summary: "EMCR Brain Sciences Website"
 
 # EMCR Brain Sciences
 
-### Backround - Who are we?
+## Background - Who are we?
 
-<img src="header/caladown.png" width="150px" style="float:right; padding:15px;">
 
-<br>
+The Early- and Mid-Career Researcher (EMCR) Brain Science Network aims to establish a platform for early-to-mid career brain scientists to develop into future leaders and to drive Australian brain science forward.
 
-The goal of calade and caladown is to allow R users to create lightweight websites powered by Hugo and is designed to be compatible with both [hugodown](https://hugodown.r-lib.org/) and [blogdown](https://bookdown.org/yihui/blogdown/), and allows users to generate graphics that match the visual style of the site via the [thematic](https://rstudio.github.io/thematic/) package. There are two components to caladown, a [Hugo theme](https://github.com/djnavarro/hugo-calade) and an [R package](https://github.com/djnavarro/caladown). The simplest way to get started is simply to download the R package from GitHub using the following command:
+![The founding members at our first meeting](header/BSN-close-crop.png)
 
-```{r, eval=FALSE}
-remotes::install_github("djnavarro/caladown")
-```
+The EMCR Brain Science Network was established in December of 2017 with the help of seed funding from the [Theo Murphy Initiative](https://www.science.org.au/supporting-science/awards-and-opportunities/theo-murphy-initiative-australia).
 
-Once the caladown package is installed, the tutorial in the [posts](/post/) section of this site will walk you through the rest of the process. For folks who already know what they are doing, here's the quick guide to setting up a Hugodown site on GitHub Pages:
 
-```{r, eval=FALSE}
-hugodown::hugo_install("0.66.0") 
-caladown::create_hugodown_calade("my-caladown-site")
-hugodown::hugo_build(dest = "docs")
-usethis::use_git()
-usethis::use_github() # then enable GH Pages with /docs folder
-```
-Note that there is a known issue with knitting the R markdown files for some versions of pandoc: at present the earliest known version that works is pandoc 2.1
+## About the EMCR Brain Science Network
 
+The EMCR Brain Science Network is an initiative of the Australian Academy of Science and the [Australian Brain Alliance](https://www.brainalliance.org.au/) that aims to establish a platform for early-to-mid career brain scientists to develop into future leaders and to drive Australian brain science forward. [Visit their page](https://www.brainalliance.org.au/emcr-brain-science-network) to read more about this initiative.
+
+## Membership
+
+Membership of the EMCR Brain Science Network is open for all early-to-mid career researchers (less than 15 years since PhD was awarded, excluding interruptions), PhD students and general public with an interest in brain science.
+
+If you have an interest in general EMCR issues, we encourage you to also become a member of the [EMCR Forum](https://www.science.org.au/supporting-science/early-and-mid-career-researchers-0/emcrs/emcr-membership-registration).
+
+## Connect with the Network
+
+To find out more about the EMCR Brain Science Network activities, follow [EMCRBrainAu](https://twitter.com/emcrbrainau) on Twitter or contact them directly at [emcrbsn@brainalliance.org.au](mailto:emcrbsn@brainalliance.org.au)

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on EMCR Brain Science Network Website</title>
+    <link>/newsletter/</link>
+    <description>Recent content in Newsletters on EMCR Brain Science Network Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial part 2: Customising posts</title>
+      <link>/newsletter/customising-posts/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/newsletter/customising-posts/</guid>
+      <description>In general I want to use a consistent palette and header across a site, but there are occasions where I might want a single page to use a different style. I don’t want to have to edit with low level settings to do that. In the second part of the tutorial I discuss this kind of customisation.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial part 3: Deploying the site</title>
+      <link>/newsletter/deploying-the-site/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/newsletter/deploying-the-site/</guid>
+      <description>The usual advice for deploying a blogdown or hugodown site is to deploy to Netlify rather than GitHub Pages, because there are a few peculiarities to GitHub Pages that can make it difficult. The third part of the tutorial walks you through both versions.</description>
+    </item>
+    
+    <item>
+      <title>April 2019 Newsletter</title>
+      <link>/newsletter/getting-started/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/newsletter/getting-started/</guid>
+      <description>Quarterly Newsletter, Edition 1, 2019 Update on ABA EMCR network activities It is our one year anniversary since the establishment of the Australian Brain Alliance Early- and Mid-Career Researcher Network (ABA EMCR Network)!
+We would like to thank all of you for signing up to be a part of this journey and we are so excited about what this year holds for Australian brain EMCRs. To celebrate, we have been busy putting together our strategic plan for 2019-2022, which we have included on the website for you to read.</description>
+    </item>
+    
+  </channel>
+</rss>

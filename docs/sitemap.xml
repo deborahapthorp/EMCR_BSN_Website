@@ -13,52 +13,75 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/customising-posts/</loc>
+    <loc>/newsletter/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/deploying-the-site/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/newsletter/customising-posts/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/newsletter/deploying-the-site/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/profiles/of-ones-own/</loc>
-    <lastmod>1929-09-01T00:00:00+00:00</lastmod>
+    <loc>/newsletter/getting-started/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>1929-09-01T00:00:00+00:00</lastmod>
+    <loc>/profiles/dr-adam-hamlin/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/dr-ann-maree-vallence/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/dr-deborah-apthorp/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/dr-sarah-stephenson/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/profile/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/profiles/</loc>
-    <lastmod>1929-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/strategic-plan/</loc>
+  </url>
+  
+  <url>
+    <loc>/strategicplan/</loc>
   </url>
   
 </urlset>
