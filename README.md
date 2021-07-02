@@ -1,18 +1,7 @@
-This is a [hugo](http://gohugo.io/) [caladown](https://djnavarro.github.io/hugo-calade/) site
+This site was built using [hugo](http://gohugo.io/) [caladown](https://djnavarro.github.io/hugo-calade/) by Danielle Navarro. 
 
-## Basic operation (hugodown)
+## EMCR Brain Sciences Website
 
-If the site is created with [hugodown](http://hugodown.r-lib.org/)
+At the moment, this site mainly contains content migrated from the site originally hosted by the [Academy of Sciences](https://www.science.org.au/supporting-science/early-and-mid-career-researchers-0/emcrs/emcr-brain-science-network). We will soon be adding updated content! 
 
-* Preview the site with `hugodown::hugo_start()`; it will automatically
-  update (navigating to the latest change) as you modify `content/`.
 
-* Create a new post bundle with `hugodown::use_post('post/short-title')`.
-
-## Basic operation (blogdown)
-
-If the site is created with [blogdown](https://github.com/rstudio/blogdown)
-
-* Preview the site with `blogdown::serve_site()`
-
-* Create a new post with `blogdown::new_post()`
