@@ -18,6 +18,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 ![Dr. Deborah Apthorp demonstrating Virtual Reality at the New Englad Regional Art Museum in 2019](DrDeborahApthorp.png)
+
 If you live in rural or regional Australia and you have Parkinson’s disease, you almost certainly have very limited access to specialised health care. Parkinson’s is the second most common neurological disorder in Australia, affecting over 80,000 Australians; 32 Australians are diagnosed every day, and the disease is more common in rural areas. Currently, diagnosis is very inexact and requires the expertise of a trained neurologist; one of my main research aims is to discover new measures which can be implemented in smartphones and other simple technologies, which could help make diagnosis and disease tracking both more accurate and more accessible.
 
 I completed my PhD at the University of Sydney in 2011, as a mature-aged student; my first career was in music. My PhD topic was in basic human visual perception, I was interested in how we see motion in the world. I then moved on to a postdoc with Dr Stephen Palmisano at the University of Wollongong, where we looked at self-motion perception. This research included learning to collect data using a force plate, which sparked my interest in postural sway.
