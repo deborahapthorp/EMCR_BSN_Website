@@ -57,9 +57,13 @@ theme = "calade"
     url = "/project/"
     weight = 4
 [[menu.main]]
+    name = "Steering Committee"
+    url = "/steeringcommittee/"
+    weight = 5
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
+    weight = 6
 
 
 

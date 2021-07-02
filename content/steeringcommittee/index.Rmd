@@ -1,0 +1,42 @@
+---
+title: "Current EMCR BSN Steering Committee membership"
+type: "post"
+summary: "Member listing for the current Steering Committee"
+author: ""
+tags: ["members", "steering-committee"]
+date: ""
+colorPage: "#eeeeee"
+colorText: "#111111"
+colorFade: "#999999"
+colorAccent1: "#0000dd"
+colorAccent2: "#8a2be2"
+toc: false
+header:
+  caption: "Image source: UCSB Brain Initiative"
+  image: 'header/mri-banner.png'
+  profile: ''
+
+---
+
+
+
+| Name | Organisation | Weblink |
+|--------------------------|-----------------------------------|-----------------------------------------------|
+Dr Deborah  Apthorp	  | University of New England	| [Deborah Apthorp](https://www.une.edu.au/staff-profiles/psychology/dr-deborah-apthorp)
+Dr Cynthia Forlini	| Deakin University	| [Cynthia Forlini](https://www.deakin.edu.au/about-deakin/people/cynthia-forlini)
+Dr Sarah Cohen-Woods |	Flinders University | [Sarah Cohen-Woods](https://www.flinders.edu.au/people/sarah.cohenwoods)
+Dr Bernadette Fitzgibbon |	Monash University |	[Bernadette Fitzgibbon](https://lens.monash.edu/@bernadette-fitzgibbon)
+A/Prof Hannah Keage	| University of South Australia	| [Hannah Keage](https://people.unisa.edu.au/hannah.keage)
+Dr Mostafa Rahimi Azghadi	| James Cook University	| [Mostafa Rahimi Azghadi](https://research.jcu.edu.au/portfolio/mostafa.rahimiazghadi/)
+Dr Ashleigh Smith	| University of South Australia |	[Ashleigh Smith](https://people.unisa.edu.au/Ashleigh.Smith)
+Dr. Matthew Thompson | Murdoch University | [Matthew Thompson](http://profiles.murdoch.edu.au/myprofile/matthew-thompson/)
+Dr Talitha Ford	| Deakin University	| [Talitha Ford](https://www.deakin.edu.au/about-deakin/people/talitha-ford)
+Dr Barbora Fulopova	| University of Tasmania	| [Barbora Fulopova](https://www.utas.edu.au/profiles/staff/health/barbora-fulopova)
+Dr Sharn Perry	| University of Tasmania	| [Sharn Perry](https://www.utas.edu.au/profiles/staff/health/sharn-perry)
+Dr Alex Tang	| University of Western Australia |	[Alex Tang](https://research-repository.uwa.edu.au/en/persons/alex-tang)
+Dr Eleanor Drummond	| University of Sydney	| [Eleanor Drummond	](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/eleanor-drummond.html)
+Dr Mayuresh Korgaonkar |	University of Sydney |	[Mayuresh Korgaonkar](https://www.westmeadinstitute.org.au/people/researcher-profiles-search/associate-professor-mayuresh-korgaonkar/biography)
+A/Prof Simon Conn |	Flinders University	| [Simon Conn](https://www.flinders.edu.au/people/simon.conn)
+A/ProfCarolyn Semmler |	University of Adelaide |	[Carolyn Semmler](https://www.adelaide.edu.au/directory/carolyn.semmler)
+Dr Chiara Bortolasci	| Deakin University	| [Chiara Bortolasci](https://www.deakin.edu.au/about-deakin/people/chiara-bortolasci)
+
