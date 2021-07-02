@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsletters on EMCR Brain Science Network Website</title>
-    <link>/newsletter/</link>
-    <description>Recent content in Newsletters on EMCR Brain Science Network Website</description>
+    <title>newsletter on EMCR Brain Science Network Website</title>
+    <link>/tags/newsletter/</link>
+    <description>Recent content in newsletter on EMCR Brain Science Network Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/newsletter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tutorial part 3: Deploying the site</title>
-      <link>/newsletter/deploying-the-site/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/newsletter/deploying-the-site/</guid>
-      <description>The usual advice for deploying a blogdown or hugodown site is to deploy to Netlify rather than GitHub Pages, because there are a few peculiarities to GitHub Pages that can make it difficult. The third part of the tutorial walks you through both versions.</description>
-    </item>
     
     <item>
       <title>June 2019 Newsletter</title>

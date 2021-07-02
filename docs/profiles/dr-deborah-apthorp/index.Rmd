@@ -5,7 +5,7 @@ author: "Deborah Apthorp"
 date: "2019-04-10"
 slug: dr-deborah-apthorp
 tags: "profile"
-summary: "Dr. Deborah Apthorp is a senior lecturer at the University of New England."
+summary: "Dr. Deborah Apthorp is a senior lecturer at the University of New England. She is a cognitive neuroscientist interested in measuring and tracking neurodegeneratative processes in Parkinson's disease using new, objective measures."
 header:
   caption: ""
   image: ''
