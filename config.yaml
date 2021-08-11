@@ -23,9 +23,12 @@ menu:
     - name: Steering Committee
       url: /steeringcommittee/
       weight: 5
+    - name: Events
+      url: /events/
+      weight: 6
     - name: Tags
       url: /tags/
-      weight: 6
+      weight: 7
 params:
   colorAccent1: '#ff69b4'
   colorAccent2: '#ba68c8'

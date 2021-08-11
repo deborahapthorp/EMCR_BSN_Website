@@ -61,9 +61,13 @@ theme = "calade"
     url = "/steeringcommittee/"
     weight = 5
 [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 6
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 6
+    weight = 7
 
 
 
