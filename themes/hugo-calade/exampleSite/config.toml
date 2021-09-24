@@ -53,8 +53,8 @@ theme = "calade"
     url = "/newsletter/"
     weight = 3
 [[menu.main]]
-    name = "Projects"
-    url = "/project/"
+    name = "Profiles"
+    url = "/profile/"
     weight = 4
 [[menu.main]]
     name = "Steering Committee"

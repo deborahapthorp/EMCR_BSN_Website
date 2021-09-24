@@ -29,6 +29,7 @@ menu:
     - name: Tags
       url: /tags/
       weight: 7
+
 params:
   colorAccent1: '#ff69b4'
   colorAccent2: '#ba68c8'
