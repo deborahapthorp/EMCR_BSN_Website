@@ -29,3 +29,7 @@ If you have an interest in general EMCR issues, we encourage you to also become 
 ## Connect with the Network
 
 To find out more about the EMCR Brain Science Network activities, follow [EMCRBrainAu](https://twitter.com/emcrbrainau) on Twitter or contact them directly at [emcrbsn@brainalliance.org.au](mailto:emcrbsn@brainalliance.org.au)
+
+## Twitter feed
+
+<div class=“twitter”> <a class=“twitter-timeline” data-height=“400” href="https://twitter.com/EMCRBrainAu?ref_src=twsrc%5Etfw">Tweets by EMCRBrainAu</a> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script> </div>
