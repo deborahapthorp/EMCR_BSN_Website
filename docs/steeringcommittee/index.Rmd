@@ -12,8 +12,7 @@ colorAccent1: "#0000dd"
 colorAccent2: "#8a2be2"
 toc: false
 header:
-  caption: "Image source: UCSB Brain Initiative"
-  image: 'header/mri-banner.jpeg'
+  image: 'header/blue-brain-banner.png'
   profile: ''
 ---
 
@@ -38,4 +37,5 @@ Dr Mayuresh Korgaonkar |	University of Sydney |	[Mayuresh Korgaonkar](https://ww
 A/Prof Simon Conn |	Flinders University	| [Simon Conn](https://www.flinders.edu.au/people/simon.conn)
 A/ProfCarolyn Semmler |	University of Adelaide |	[Carolyn Semmler](https://www.adelaide.edu.au/directory/carolyn.semmler)
 Dr Chiara Bortolasci	| Deakin University	| [Chiara Bortolasci](https://www.deakin.edu.au/about-deakin/people/chiara-bortolasci)
+Dr Scott Kiel-Chisholm	| QUT	| [Scott Kiel-Chisholm](https://www.qut.edu.au/about/our-people/academic-profiles/s.kielchisholm)
 

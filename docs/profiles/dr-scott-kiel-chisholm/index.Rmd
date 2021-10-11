@@ -1,0 +1,43 @@
+---
+title: "Dr. Scott Kiel-Chisholm"
+type: "project"
+author: "Scott Kiel-Chisholm"
+date: "2021-10-11"
+slug: dr-scott-kiel-chisholm
+tags: "profile"
+summary: "Dr. Scott Kiel-Chisholm is a Lecturer and Academic Lead of the Postgraduate Programs at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). He is also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT, focusing on Regulating Life Sciences, Robotics, Neural Interface and the Law. "
+header:
+  caption: ""
+  image: ''
+  profile: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Neural interface systems encompass sophisticated technology that enables integration of the human brain and body with an artificial device. The complexity of the brain and neural system is immense so neuroscientific research is an integral part of the development of neural interface devices. My PhD thesis, titled *Civil Liability Challenges for the Law and Neural Interface Devices: Reconceptualising the Law*, examined the challenges that the melding of mind and machine through neural interface presents to the existing legal frameworks and determined that, in particular circumstances, the law will require re-evaluation and adaptation. 
+
+
+![](Scott.png)
+
+
+
+I’m a Lecturer and the Academic Lead, Post Graduate Programs at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). I’m also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT focussing on Regulating Life Sciences, Robotics, Neural Interface and the Law. 
+
+My research continues in neural interface and the law extending beyond the scope of the PhD thesis, including neuroethics, the design and development of neurotechnologies and how the digital and associated automated technologies are affecting, changing or challenging human life. This involves innovative and interdisciplinary collaborative research that enhances the translation of research outcomes into the community. 
+
+Contact Details: 
+
+**Dr Scott Kiel-Chisholm | Lecturer | Academic Lead - Postgraduate Programs** 
+
+School of Law | Queensland University of Technology 
+
+Phone: +61 7 3138 1602 | Room C749
+
+GPO Box 2434 | 2 George Street, Brisbane QLD 4000 | CRICOS No. 00213
+
+Member, [Datafication and Automation of Human Life Research Program](https://research.qut.edu.au/daaohl/)
+
+[Staff profile](https://staff.qut.edu.au/staff/s.kielchisholm) |[ePrints](http://eprints.qut.edu.au/view/person/Kiel-Chisholm,_Scott.html)| [ORCiD](https://orcid.org/0000-0003-3178-148X) | [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=tCIeeRkAAAAJ) | [LinkedIn](https://au.linkedin.com/in/scott-kiel-chisholm-27221610)
+

@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content in Home on EMCR Brain Science Network Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,16 +20,34 @@
     </item>
     
     <item>
-      <title>Jobs Outside the Bubble 2</title>
-      <link>/events/jobs-outside-the-bubble/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <title>A/Prof. Simon Conn</title>
+      <link>/profiles/a-prof-simon-conn/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/events/jobs-outside-the-bubble/</guid>
-      <description>This will be the next in our very popular webinar series, to be held on September 14th from 1-2pm.</description>
+      <guid>/profiles/a-prof-simon-conn/</guid>
+      <description>A/Prof Simon Conn is an NHMRC Investigator Leadership fellow and runs the Circular RNAs in Cancer Laboratory at Flinders University. His laboratory has a particular strength and focus on RNA splicing in brain cancer and is a proud founding member of the Australian Brain Alliance, EMCR Brain Science Network, which supports interdisciplinary research among Australian EMCRs.</description>
     </item>
     
     <item>
-      <title>Jobs Outside the Bubble</title>
+      <title>Dr. Scott Kiel-Chisholm</title>
+      <link>/profiles/dr-scott-kiel-chisholm/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-scott-kiel-chisholm/</guid>
+      <description>Dr. Scott Kiel-Chisholm is a Lecturer and Academic Lead of the Postgraduate Programs at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). He is also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT, focusing on Regulating Life Sciences, Robotics, Neural Interface and the Law.</description>
+    </item>
+    
+    <item>
+      <title>Jobs Outside the Bubble 2</title>
+      <link>/events/jobs-outside-the-bubble-2/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/events/jobs-outside-the-bubble-2/</guid>
+      <description>The second in our very popular webinar series, which was held on September 14th from 1-2pm.</description>
+    </item>
+    
+    <item>
+      <title>Jobs Outside the Bubble 1</title>
       <link>/events/jobs-outside-the-bubble/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       

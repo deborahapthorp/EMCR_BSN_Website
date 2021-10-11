@@ -12,7 +12,6 @@ colorAccent1: "#0000dd"
 colorAccent2: "#8a2be2"
 toc: false
 header:
-  caption: "Image source: UCSB Brain Initiative"
   image: 'header/brain-banner.png'
 
 ---
@@ -37,4 +36,3 @@ header:
 
 | Long-term Goal| A vibrant, world-class brain science sector in Australia, championed by EMCRs.|
 |----------|---------------------------------------------------------------------------------------------|
-
