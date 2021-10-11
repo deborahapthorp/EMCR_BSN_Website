@@ -12,7 +12,7 @@ colorAccent1: "#0000dd"
 colorAccent2: "#8a2be2"
 toc: false
 header:
-  image: 'header/neuron-banner.png'
+  image: 'header/brain-banner.png'
   profile: ''
 ---
 
