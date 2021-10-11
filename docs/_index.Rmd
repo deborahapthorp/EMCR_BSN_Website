@@ -32,4 +32,4 @@ To find out more about the EMCR Brain Science Network activities, follow [EMCRBr
 
 ## Twitter feed
 
-<div class=“twitter”> <a class=“twitter-timeline” data-height=“400” href="https://twitter.com/EMCRBrainAu?ref_src=twsrc%5Etfw">Tweets by EMCRBrainAu</a> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script> </div>
+`r htmltools::HTML("{{<div class=“twitter”> <a class=“twitter-timeline” data-height=“400” href="https://twitter.com/EMCRBrainAu?ref_src=twsrc%5Etfw">Tweets by EMCRBrainAu</a> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script> </div>}}")`

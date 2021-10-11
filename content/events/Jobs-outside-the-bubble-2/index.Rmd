@@ -3,7 +3,7 @@ title: "Jobs Outside the Bubble 2"
 type: "talk"
 author: "Deborah Apthorp"
 date: "2021-09-14"
-slug: jobs-outside-the-bubble
+slug: jobs-outside-the-bubble-2
 tags: "seminar"
 summary: "The second in our very popular webinar series, which was held on September 14th from 1-2pm."
 header:
