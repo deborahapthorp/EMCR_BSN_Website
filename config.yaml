@@ -29,6 +29,9 @@ menu:
     - name: Tags
       url: /tags/
       weight: 7
+    - name: Twitter feed
+      url: /twitter-feed/
+      weight: 8
 
 params:
   colorAccent1: '#ff69b4'
