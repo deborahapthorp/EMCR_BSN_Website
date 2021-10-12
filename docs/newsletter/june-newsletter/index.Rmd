@@ -13,7 +13,7 @@ colorAccent1: "#0000dd"
 colorAccent2: "#8a2be2"
 toc: false
 header:
-  caption: "Image source: UCSB Brain Initiative"
+  caption: ""
   image: 'header/brain-banner.png'
 ---
 
