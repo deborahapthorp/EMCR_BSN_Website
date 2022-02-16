@@ -5,7 +5,7 @@ author: "Scott Kiel-Chisholm"
 date: "2021-10-11"
 slug: dr-scott-kiel-chisholm
 tags: "profile"
-summary: "Dr. Scott Kiel-Chisholm is a Lecturer and Academic Lead of the Postgraduate Programs at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). He is also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT, focusing on Regulating Life Sciences, Robotics, Neural Interface and the Law. "
+summary: "Dr. Scott Kiel-Chisholm is a researcher at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). He is also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT, focusing on Regulating Life Sciences, Robotics, Neural Interface and the Law. "
 header:
   caption: ""
   image: ''
@@ -23,7 +23,7 @@ Neural interface systems encompass sophisticated technology that enables integra
 
 
 
-I’m a Lecturer and the Academic Lead, Post Graduate Programs at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). I’m also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT focussing on Regulating Life Sciences, Robotics, Neural Interface and the Law. 
+I’m a Lecturer and researcher at the School of Law, Faculty of Business and Law at Queensland University of Technology (QUT). I’m also a researcher in the Datafication and Automation of Human Life Research Program at the Faculty of Law, QUT focussing on Regulating Life Sciences, Robotics, Neural Interface and the Law. 
 
 My research continues in neural interface and the law extending beyond the scope of the PhD thesis, including neuroethics, the design and development of neurotechnologies and how the digital and associated automated technologies are affecting, changing or challenging human life. This involves innovative and interdisciplinary collaborative research that enhances the translation of research outcomes into the community. 
 
