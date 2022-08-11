@@ -37,8 +37,7 @@ Chaired by the Brain Science Network.
 April 8th, 1-2pm (Melbourne/Sydney time)
 
 
-[Register here!](https://unisa.zoom.us/webinar/register/WN_o4VOjUZrSYG_7DJiQXk0tg)
-
+`r htmltools::HTML("{{< youtube JPZqAtQjS6Y >}}")`
 
 
 
