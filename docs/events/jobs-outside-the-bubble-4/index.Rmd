@@ -2,7 +2,7 @@
 title: "Jobs Outside the Bubble 4"
 type: "talk"
 author: "Deborah Apthorp"
-date: "2022-08-09"
+date: "2022-09-02"
 slug: jobs-outside-the-bubble-4
 tags: "seminar"
 summary: "The fourth in our popular webinar series, which will be held on Friday, September 2nd 2022, from 1-2pm (Melbourne/Sydney time)."
