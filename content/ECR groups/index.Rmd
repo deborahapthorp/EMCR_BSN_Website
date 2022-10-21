@@ -1,0 +1,53 @@
+---
+title: "Links to other ECR groups"
+type: "post"
+summary: "Other brain-related ECR groups in Australia - brief descriptions and links"
+author: ""
+tags: ["members", "ecr-groups"]
+date: ""
+colorPage: "#eeeeee"
+colorText: "#111111"
+colorFade: "#999999"
+colorAccent1: "#0000dd"
+colorAccent2: "#8a2be2"
+toc: false
+header:
+  image: 'header/mri-banner.jpeg'
+  profile: ''
+---
+
+## [Australasian Cognitive Neuroscience Society (ACNS)](https://www.acns.org.au/ecr/)
+
+The Australasian Cognitive Neuroscience Society is an academic society focused on the scientific study of the biological or brain foundations of mental processes and behaviour. We welcome members from disciplines such as psychology, neuroscience, cognitive science, psychiatry, neurology, linguistics, computer science, and philosophy, all with an interest in the relationships between the brain, mind, and behaviour.
+
+The ACNS Early Career Researcher (ECR) sub-committee is comprised of PhDs and Post-Doctoral representatives at varying stages of their career. The aims of the ECR sub-committee are to develop and promote a supportive early career research community, and provide representation within the society. The sub-committee also hopes to provide a forum for discussing issues relevant to ECRs and support community members to have a successful and enjoyable start to their research careers.
+
+
+## [Australian Neuroscience Society (ANS)](https://www.ans.org.au/about-us/committees/emcr-committee)
+
+The current EMCR committee of the ANS has representatives from across Australia and New Zealand, from a variety of EMCR career stages and discipline backgrounds. As a committee, our central goals will be to provide career development opportunities and advocacy for EMCRs in neuroscience across Australasia and directly represent EMCRs on the ANS Council.
+
+## [Biological Psychiatry Australia](http://www.biolpsychaustralia.com.au/ecrn/)
+
+This is a group of researchers investigated in the biological origins of psychiatric disorder. Biological Psychiatry Australia facilitates professional development and networking opportunities for early career researchers.
+
+## [Students of Brain Research (SOBR)](https://www.sobrnetwork.org/))
+
+Students of Brain Research (SOBR) is an academic and social network that facilitates knowledge and skill development between students across Australia with an interest in brain research.
+
+
+
+## [Australian Dementia Network](https://www.australiandementianetwork.org.au/)
+
+The Australian Dementia Network is a network of leading scientists and researchers from across 17 institutions, working together with the aim of:
+
+- establishing the first dementia clinical quality registry to track, benchmark, and report on the clinical care of people with dementia (Registry);
+
+- establishing consistent best practice guidelines for the diagnosis and treatment of dementia (Memory Clinics);
+
+- facilitating the development of effective therapies by providing detailed dementia screening of patients suitable for participation in clinical trials (Screening and Trials).
+
+
+
+
+

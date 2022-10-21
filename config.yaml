@@ -32,6 +32,9 @@ menu:
     - name: Twitter feed
       url: /twitter-feed/
       weight: 8
+    - name: ECR groups
+      url: /ecr-groups/
+      weight: 9
 
 params:
   colorAccent1: '#ff69b4'
