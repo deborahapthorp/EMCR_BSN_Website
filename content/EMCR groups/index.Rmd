@@ -1,7 +1,7 @@
 ---
-title: "Links to other ECR groups"
+title: "Links to other EMCR groups"
 type: "post"
-summary: "Other brain-related ECR groups in Australia - brief descriptions and links"
+summary: "Other brain-related EMCR groups in Australia - brief descriptions and links"
 author: ""
 tags: ["members", "ecr-groups"]
 date: ""

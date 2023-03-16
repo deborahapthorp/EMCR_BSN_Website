@@ -29,8 +29,8 @@ menu:
     - name: Twitter feed
       url: /twitter-feed/
       weight: 7
-    - name: ECR groups
-      url: /ecr-groups/
+    - name: EMCR groups
+      url: /emcr-groups/
       weight: 8
 
 params:
