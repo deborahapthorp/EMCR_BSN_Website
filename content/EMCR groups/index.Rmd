@@ -48,6 +48,11 @@ The Australian Dementia Network is a network of leading scientists and researche
 - facilitating the development of effective therapies by providing detailed dementia screening of patients suitable for participation in clinical trials (Screening and Trials).
 
 
+## [ADNeT Early Mid-Career Accelerator Group](https://www.australiandementianetwork.org.au/special-interest-groups/emcr-accelerator-group/)
+
+The Australian Dementia Network Early and Mid-Career Researchers (ADNeT EMCR) Accelerator Group supports and advocates for early and mid-career dementia researchers and helps develop future leaders. The Accelerator Group was formed as part of the concluded NHMRC National Institute for Dementia Research (NNIDR) in 2018 and is delighted to continue working under the auspices of ADNeT since 2020. Check out their introductory video below!
+
+`r htmltools::HTML("{{< youtube HKNUvruKOkY >}}")`
 
 
 
