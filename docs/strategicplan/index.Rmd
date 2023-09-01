@@ -1,5 +1,5 @@
 ---
-title: "Strategic Plan 2019-2022"
+title: "Strategic Plan 2023-2026"
 type: "post"
 summary: "EMCR Brain Sciences Strategic Plan"
 author: ""
@@ -13,26 +13,25 @@ colorAccent2: "#8a2be2"
 toc: false
 header:
   image: 'header/brain-banner.png'
-
 ---
 
-# EMCR Brain Sciences Network Strategic Plan 
+# EMCR Brain Sciences Network Strategic Plan
 
-| Vision | To shape the future of Australian brain science by empowering the next generation of leaders |
-|-----------------|---------------------------------------------------------------------------------------------|
-| **Mission** | To support emerging brain scientists in Australia and foster interdisciplinary research from discovery to development and translation.|
-| **Values** |  To promote diversity, inclusivity, engagement, collaboration and integrity across Australian brain science |
-| **Stakeholders** | Early-to-mid career researchers in brain science in all sectors (<15 years since PhD, excluding interruptions).|
-|| Australian Brain Alliance; Australian Academy of Science; Brain Science EMCR groups; Australian Universities, Research Institutes, Government and Funding Bodies; Media and the public|
+| Vision           | To shape the future of Australian brain science by empowering the next generation of leaders                                                                                                     |
+|-------------|-----------------------------------------------------------|
+| **Mission**      | To support emerging brain scientists in Australia and foster interdisciplinary research from discovery to development and translation.                                                           |
+| **Values**       | To promote *diversity, inclusivity, engagement, collaboration and integrity* across Australian brain science                                                                                     |
+| **Stakeholders** | Early-to-mid career researchers in brain science in all sectors (\<15 years since PhD, excluding interruptions).                                                                                 |
+|                  | Australian Brain Alliance; Australian Academy of Science; Brain Science EMCR groups; Australian Universities, Research Institutes, Government and Funding Bodies; Media, Industry and the Public |
 
+| **Imperatives **  | Fostering a vibrant, diverse, innovative and interdisciplinary network that supports EMCRs in the brain sciences | Providing a platform that breaks down existing structural barriers between the brain science disciplines from discovery to technology and translation | Shaping the national policy relevant to brain science, advocate for EMCRs, and provide the tools for EMCRs to advocate for themselves |
+|---------------|----------------|----------------------|-------------------|
+| **Initiatives** | Inclusion of unrepresented groups on the EMCR BSN Steering Committee| Create opportunities to extend national and international networks by collaborating with other brain science EMCR organisations   | Facilitate broad consultation to identify the needs of our members|
+|| Identify strategies to directly address the broader issues of diversity and representation | Enable exchanges between industry and academia | Represent our members on issues raised by stakeholders|
+|| Maintain and create opportunities to grow our online symposia series and social media presence |        | Empower EMCRs within brain science to advocate to government and within the workplace|
+||---------------|----------------|----------------------|-------------------|
+| **Outcomes**    | An internationally leading and innovative brain sciences sector for EMCRs in Australia                           | A strong collaborative brain science network bridging disciplines to accelerate discovery and translation                                           | National policy on brain science shaped by and for EMCRs                                                                            |
 
-| Imperatives | Establish a vibrant, diverse, innovative and interdisciplinary network that supports EMCRs in the brain sciences. | Provide a platform that breaks down existing structural barriers between the brain science disciplines from discovery to technology and translation | Shape the national policy relevant to brain science, advocate for EMCRs, and provide the tools for EMCRs to advocate for themselves |
-|--------------|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------|
-| **Initiatives**| Grow our state-based symposia series | Develop an online membership registry to highlight expertise and resources | Engage in broad consultation to identify the needs of our members|
-| | Extend national and international networks by collaborating with other brain science EMCR organisations| Create opportunities for national and international experiences in brain science | Represent our members on issues raised by stakeholders |
-| | Enhance our social media presence and provide our quarterly newsletter|Enable exchanges between industry and academia | Empower EMCRs within brain science to advocate to government and within the workplace  |
-|**Outcomes** | An internationally leading and innovative brain sciences sector for EMCRs in Australia | A strong collaborative brain science network bridging disciplines to accelerate discovery and translation | National policy on brain science shaped by and for EMCRs |
-
-
-| Long-term Goal| A vibrant, world-class brain science sector in Australia, championed by EMCRs.|
-|----------|---------------------------------------------------------------------------------------------|
+| Long-term Goal | A vibrant, world-class brain science sector in Australia, championed by EMCRs. |
+|----------------|--------------------------------------------------------|
+|                |                                                                                |
