@@ -26,12 +26,9 @@ menu:
     - name: Tags
       url: /tags/
       weight: 6
-    - name: Twitter feed
-      url: /twitter-feed/
-      weight: 7
     - name: EMCR groups
       url: /emcr-groups/
-      weight: 8
+      weight: 7
 
 params:
   colorAccent1: '#ff69b4'
