@@ -9,7 +9,6 @@ summary: "The third in our popular webinar series, which will be held on April 8
 header:
   caption: "Photo by [Kind and Curious](https://unsplash.com/@kindandcurious) on [Unsplash](https://unsplash.com)"
   image: 'header/bubbles.jpeg'
-  profile: ''
 ---
 
 ```{r setup, include=FALSE}

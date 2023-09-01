@@ -9,7 +9,6 @@ summary: "The fourth in our popular webinar series, which will be held on Friday
 header:
   caption: ''
   image: 'header/bubbles.jpeg'
-  profile: ''
 ---
 
 ```{r setup, include=FALSE}
