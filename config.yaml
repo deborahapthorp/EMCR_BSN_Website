@@ -39,7 +39,7 @@ params:
   description: This is the new website for the Australasian EMCR Brain Sciences network 
   footer: EMCRs are early-mid-career researchers in ANY area doing brain-related things
   siteHeader: header/EMCRNetworkLogo.png
-  siteProfile: 
+  siteProfile: header/EMCR-BSN-logo.png
   twitterImage: header/EMCR-BSN-logo.png
 markup:
   defaultMarkdownHandler: goldmark

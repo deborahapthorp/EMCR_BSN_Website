@@ -2,7 +2,7 @@
 title: Home
 summary: "EMCR Brain Sciences Website"
 header:
-  image: 'header/ABA-EMCR-BSN-banner.png'
+  image: 'header/brain-banner.jpeg'
 ---
 
 
