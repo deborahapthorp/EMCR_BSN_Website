@@ -5,10 +5,19 @@
     <link>/tags/</link>
     <description>Recent content in Tags on EMCR Brain Science Network Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>profile</title>
+      <link>/tags/profile/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/profile/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>seminar</title>
@@ -16,15 +25,6 @@
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>profile</title>
-      <link>/tags/profile/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/profile/</guid>
       <description></description>
     </item>
     
