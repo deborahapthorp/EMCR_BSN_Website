@@ -3,28 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/profiles/dr-annabel-short/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/dr-elysia-sokolenko/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/dr-kristin-barry/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/profile/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/profiles/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/profiles/a-prof-carolyn-semmler/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/profile/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/profiles/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <loc>/profiles/isabella-bower/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,11 +99,6 @@
   
   <url>
     <loc>/profiles/dr-brenton-hordacre/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/profiles/isabella-bower/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
