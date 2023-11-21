@@ -14,7 +14,7 @@ menu:
     - name: Strategic Plan
       url: /strategicplan/
       weight: 2
-    - name: Profiles
+    - name: Researcher Profiles
       url: /profiles/
       weight: 3
     - name: Steering Committee

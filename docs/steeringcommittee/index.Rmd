@@ -20,12 +20,11 @@ header:
 | Name | Organisation | Weblink |
 |--------------------------|-----------------------------------|-----------------------------------------------|
 A/Prof Deborah  Apthorp	  | University of New England	| [Deborah Apthorp](https://www.deborahapthorp.com/)
-Dr Isabella Bower | Postdoctoral Research Fellow, Cognitive Ageing and Impairment Neurosciences (CAIN), Behaviour-Brain-Body Research Centre, UniSA Justice & Society | [Isabella Bower](mailto:Bella.Bower@unisa.edu.au)
 Dr Kristin Barry | Research Fellow, University of Western Australia, School of Human Sciences | [Kristin Barry](https://research-repository.uwa.edu.au/en/persons/kristin-barry)
+Dr Isabella Bower | Postdoctoral Research Fellow, Cognitive Ageing and Impairment Neurosciences (CAIN), Behaviour-Brain-Body Research Centre, UniSA Justice & Society | [Isabella Bower](mailto:Bella.Bower@unisa.edu.au)
 Dr Cynthia Forlini	| Deakin University	| [Cynthia Forlini](https://www.deakin.edu.au/about-deakin/people/cynthia-forlini)
-Dr Barbora Fulopova	| University of Tasmania	| [Barbora Fulopova](https://www.utas.edu.au/profiles/staff/health/barbora-fulopova)
+Dr Barbora Fulopova	| Queensland Brain Institute	| [Barbora Fulopova](https://qbi.uq.edu.au/profile/14713/barbora-fulopova)
 Dr Scott Kiel-Chisholm	| QUT	| [Scott Kiel-Chisholm](https://www.qut.edu.au/about/our-people/academic-profiles/s.kielchisholm)
-Dr Sharn Perry	| University of Tasmania	| [Sharn Perry](https://www.utas.edu.au/profiles/staff/health/sharn-perry)
 A/Prof Carolyn Semmler |	University of Adelaide |	[Carolyn Semmler](https://www.adelaide.edu.au/directory/carolyn.semmler)
 Dr Annabel Short | Telethon Kids Institute | [Annabel Short](mailto:annabel.short@telethonkids.org.au )
 Dr Elysia Sokolenko | Research Coordinator Discipline of Psychiatry; Lecturer Discipline of Anatomy and Pathology, Adelaide Medical School, The University of Adelaide | [Elysia Sokolenko](https://researchers.adelaide.edu.au/profile/elysia.sokolenko)
