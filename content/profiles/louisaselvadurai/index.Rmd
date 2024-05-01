@@ -1,0 +1,27 @@
+---
+title: "Dr. Louisa Selvadurai"
+type: "project"
+author: "Louisa Selvadurai"
+date: "2024-05-01"
+slug: dr-louisa-selvadurai
+tags: "profile"
+summary: "Dr Louisa Selvadurai is a Research Fellow at the School of Psychological Sciences, Monash University, and a psychologist (clinical neuropsychology registrar). Dr Selvadurai’s research focuses characterising and tracking cognition, mood, and behaviour in cerebellar disorders, in particular degenerative ataxias. She has a particular interest in understanding how non-motor features play a role in the day-to-day experience of individuals with these disorders, which are primarily known for their motor symptoms."
+header:
+  caption: ""
+  image: ''
+  profile: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+![](Louisa.jpg)
+
+Dr Louisa Selvadurai is a Research Fellow at the School of Psychological Sciences, Monash University, and a psychologist (clinical neuropsychology registrar). Dr Selvadurai’s research focuses characterising and tracking cognition, mood, and behaviour in cerebellar disorders, in particular degenerative ataxias. She has a particular interest in understanding how non-motor features play a role in the day-to-day experience of individuals with these disorders, which are primarily known for their motor symptoms. 
+
+Dr Selvadurai completed a Bachelor of Behavioural Neuroscience with Honours in Psychology. She then completed a Doctor of Psychology (Clinical Neuropsychology), with her doctoral research focussing on the analysis of MRI to characterise white matter pathways in Friedreich ataxia. She was then awarded a Fulbright Postdoctoral Research Fellowship to conduct research at Massachusetts General Hospital, Boston, USA, focussing on cognitive and neuropsychiatric features of cerebellar disorders, before returning to Australia to continue her research and clinical work. 
+
+Dr Selvadurai previously served as a committee member for Students of Brain Research (2019).
+
