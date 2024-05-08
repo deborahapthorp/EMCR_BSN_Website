@@ -1,0 +1,28 @@
+---
+title: "Dr. Ronak Reshamwala"
+type: "project"
+author: "Ronak Reshamwala"
+date: "2024-05-08"
+slug: dr-ronak-reshamwala
+tags: "profile"
+summary: "Dr Ronak Reshamwala is a research fellow with the Clem Jones Centre for Neurobiology and Stem Cell Research at Menzies Health Institute Queensland, Griffith University, Australia. He is a medical doctor trained in India and has received his PhD from the Griffith University, Australia in 2020. Ronak's main research interests include translational research, regenerative neurology, spinal cord injury, neurodegenration and pain perception. "
+header:
+  caption: ""
+  image: ''
+  profile: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+![](Ronak1.png)
+
+Dr Ronak Reshamwala is a research fellow with the Clem Jones Centre for Neurobiology and Stem Cell Research at Menzies Health Institute Queensland, Griffith University, Australia. He is a medical doctor trained in India and has received his PhD from the Griffith University, Australia in 2020. 
+
+Ronak's main research interests include translational research, regenerative neurology, spinal cord injury, neurodegenration and pain perception. During the course of his masters degree, Ronak was selected as an International Program Associate at the RIKEN Brain Science Institute, Japan to explore the genetic basis of pain perception and nociception at the Genetic Control of Neuronal Architecture Lab. To pursue his interest in regenerative neurology, he then moved to Australia for his PhD under the supervision of Prof James St John. His PhD work focused on developing novel, better translatable and robust surgical approaches for transplantation of 3D cellular constructs in the injured spinal cord as well as developing better and clinically relevant behavioural tests, to induce as well as assess the structural and functional repairs.
+
+He is currently actively involved with the clinical translation of the cell-transplantation therapy for spinal cord injury repair. This work has successfully led to a Phase I/IIa clinical trial that is set to commence in 2024.
+
+
