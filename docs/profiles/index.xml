@@ -5,10 +5,19 @@
     <link>/profiles/</link>
     <description>Recent content in Profiles on EMCR Brain Science Network Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/profiles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dr. Mary Ardren</title>
+      <link>/profiles/dr-mary-ardren/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/profiles/dr-mary-ardren/</guid>
+      <description>Dr Mary Ardren is an early career research fellow at the Bionics Institute and holds an honorary appointment at the Medical Bionics Department at The University of Melbourne. Her research involves using electrical and optical stimulation of peripheral nerves to manage chronic health conditions (e.g., chronic pain). She is particularly interested in how pain signalling is altered in the periphery during disease/disorder states, and how this alters central nervous system activity. Her expertise lies in cellular and sensory neuroscience, electrophysiology and optogenetics.</description>
+    </item>
     
     <item>
       <title>Dr. Louisa Selvadurai</title>
