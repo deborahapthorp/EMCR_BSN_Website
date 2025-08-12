@@ -44,6 +44,7 @@ params:
   siteHeader: header/EMCRNetworkLogo.png
   siteProfile: header/EMCR-BSN-logo.png
   twitterImage: header/EMCR-BSN-logo.png
+  favicon: "static/favicon.png"
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
